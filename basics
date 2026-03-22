@@ -14,7 +14,15 @@ ls [options]
 
 ## Example
 
+ls -la
 
+Screenshot (ls)
+
+![ls output](../images/ls.jpg)
+
+Screenshot (ls -la)
+
+![ls -la output](../images/ls-la.jpg)
 
 ## Output
 
