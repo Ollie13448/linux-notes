@@ -12,19 +12,15 @@ ls [options]
 -l → long format (detailed info)
 -a → show hidden files
 
-## Example
-
-ls -la
-
-Screenshot (ls)
+## Screenshot (ls)
 
 ![ls output](../images/ls.jpg)
 
-Screenshot (ls -la)
+## Screenshot (ls -la)
 
 ![ls -la output](../images/ls-la.jpg)
 
-## Output
+## What this does
 
 Shows all files including hidden ones with permissions and details
 
