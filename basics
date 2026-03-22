@@ -8,9 +8,13 @@ Lists files and directories in the current folder
 
 ls [options]
 
+## Common Options
+-l → long format (detailed info)
+-a → show hidden files
+
 ## Example
 
-ls -la
+
 
 ## Output
 
