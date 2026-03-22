@@ -1,0 +1,22 @@
+# ls
+
+## What it does
+
+Lists files and directories in the current folder
+
+## Syntax
+
+ls [options]
+
+## Example
+
+ls -la
+
+## Output
+
+Shows all files including hidden ones with permissions and details
+
+## Notes
+
+* -l = long format
+* -a = shows hidden files
