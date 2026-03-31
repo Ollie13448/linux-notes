@@ -28,3 +28,62 @@ Shows all files including hidden ones with permissions and details
 
 * -l = long format
 * -a = shows hidden files
+
+# pwd
+
+## What it does
+
+Displays the full path of the current working directory.
+
+## Syntax
+
+pwd
+
+## Example
+
+pwd
+
+## Screenshot (optional)
+
+Add a screenshot here of you running `pwd` in the terminal.
+
+## What this does
+
+Shows where you currently are in the Linux file system.
+
+## Notes
+
+* `pwd` stands for **print working directory**
+* Useful when navigating folders so you don’t get lost
+* Commonly used before or after `cd`
+
+# cd
+
+## What it does
+
+Changes the current directory.
+
+## Syntax
+
+cd [directory]
+
+## Example
+
+cd Documents
+
+## Screenshot (optional)
+
+Add a screenshot here of you using `cd` to move into a folder.
+
+## What this does
+
+Moves you from your current directory into another one.
+
+## Notes
+
+* `cd` stands for **change directory**
+* Use `cd ..` to go back one directory
+* Use `cd ~` to return to the home directory
+* Often used with `ls` and `pwd` when navigating Linux
+
+
